@@ -1,0 +1,17 @@
+.box-orange{
+    width: 200px;
+    height: 200px;
+    background-color:blue ;
+}
+.box-green{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    left: 400px;
+}
+.box-blue{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    left: 400px;
+}
